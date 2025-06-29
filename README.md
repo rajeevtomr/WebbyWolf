@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Professional Landing Page
 
 A modern, responsive landing page built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.
@@ -182,3 +183,6 @@ This project is created for assessment purposes.
 ---
 
 **Built with ❤️ using Next.js, TypeScript, and Tailwind CSS**
+=======
+# WebbyWolf
+>>>>>>> dd3693e6cf9822966595bded41578cd0608ce987
